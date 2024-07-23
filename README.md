@@ -1,4 +1,4 @@
-# fake-insurance-detection-using-ADASYN-and-SMOTE
+# Fake-insurance-detection-using-ADASYN-and-SMOTE
 This is a python code to identify insurance fraudulence occuring in automobile industry. 
 I've used 4 machine learning algorithms and compared their individual results.
 As you know, the target column has imbalanced classes 
